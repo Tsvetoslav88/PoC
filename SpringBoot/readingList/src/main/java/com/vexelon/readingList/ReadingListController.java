@@ -1,4 +1,4 @@
-package com.nexelon.readingList;
+package com.vexelon.readingList;
 
 import java.util.List;
 
@@ -34,4 +34,5 @@ public class ReadingListController {
 		readingListRepository.save(book);
 		return "redirect:/{reader}";
 	}
+
 }

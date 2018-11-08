@@ -1,4 +1,4 @@
-package com.nexelon.readingList;
+package com.vexelon.readingList;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
